@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I'm currently working on**<br>Learning Data Analytics and building Python projects.<br><br>👯 **I'm looking to collaborate on**<br>Beginner-friendly open-source and Python projects.<br><br>🤝 **I'm looking for help with**<br>Data Analytics, Power BI, and Open Source contributions.<br><br>🌱 **I'm currently learning**<br>Python, SQL, Power BI, and Flask.<br><br>💬 **Ask me about**<br>Python, SQL, java Web Development, and GitHub.<br><br>⚡ **Fun fact**<br>I enjoy learning by building projects from scratch.<br>
+🔭 **I'm currently working on**<br>Learning Data Analytics and building Python projects.<br><br>👯 **I'm looking to collaborate on**<br>Beginner-friendly open-source and Python projects.<br><br>🤝 **I'm looking for help with**<br>Data Analytics, Power BI, and Open Source contributions.<br><br>🌱 **I'm currently learning**<br>Python, SQL, java , Power BI, and Flask.<br><br>💬 **Ask me about**<br>Python, SQL, java Web Development, and GitHub.<br><br>⚡ **Fun fact**<br>I enjoy learning by building projects from scratch.<br>
 
 
 ## 🌐 Socials:
